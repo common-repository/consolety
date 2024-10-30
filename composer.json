@@ -1,0 +1,15 @@
+{
+  "name" : "consolety/consolety",
+  "description" : "Consolety plugin",
+  "type" : "wp-plugin",
+  "autoload": {
+    "psr-4": {
+      "Consolety\\": "classes/"
+    }
+  },
+  "authors" : [{
+    "name" : "Consolety",
+    "email" : "contact@consolety.net"
+  }
+  ]
+}
